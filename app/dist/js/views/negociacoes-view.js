@@ -34,3 +34,4 @@ export class NegociacoesView extends View {
             .format(data);
     }
 }
+//# sourceMappingURL=negociacoes-view.js.map
